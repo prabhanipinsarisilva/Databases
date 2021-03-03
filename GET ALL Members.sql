@@ -1,0 +1,3 @@
+CREATE PROCEDURE GetallMembers
+AS
+SELECT*FROM Book;
